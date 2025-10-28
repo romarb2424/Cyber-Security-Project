@@ -1,0 +1,29 @@
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files (optional, uncomment if large)
+# data/raw/
+# data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models (optional if large)
+# models/

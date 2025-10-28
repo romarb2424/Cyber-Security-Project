@@ -1,0 +1,7 @@
+# Core requirements for Cyber Security Project
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+seaborn
